@@ -1,0 +1,28 @@
+Below is HPP
+0 7 15 24 22 26 16 11 5 11 14 25 24 25 15 11 5 15 14 21 22 24 17 13 4 14 14 21 22 26 15 11 5 14 19 20 21 20 26 16 13 9 5 0 0 0 0 
+Below is VPP
+0 16 26 26 26 22 0 1 1 0 17 22 25 25 18 1 0 1 1 20 26 26 22 14 0 1 0 1 20 27 27 24 19 0 0 0 19 22 23 26 18 1 0 0 19 26 26 23 19 0 0 0 
+Below is binHPP
+0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 
+Below is binVPP
+0 1 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 1 1 1 1 1 0 0 0 1 1 1 1 1 0 0 0 
+Below is the linked list after insert input zone box
+Below is morphHPP, after performing morphCLosing on HPP
+0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 
+Below is morphVPP after performing morphClosing on VPP
+0 1 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 1 1 1 1 1 0 0 0 1 1 1 1 1 0 0 0 
+The number of runs in morphHPP-runsHPP is 2
+The number of runs in morphVPP-runsVPP is 7
+readingDirection is 2
+2
+1 44 42 49
+2
+1 36 42 41
+2
+1 28 42 33
+2
+1 19 42 24
+2
+1 10 42 15
+2
+1 1 42 6
